@@ -1,2 +1,2 @@
 printf("Welcome");
-printf("How do you do?");
+printf("How do you do? is bad!");
